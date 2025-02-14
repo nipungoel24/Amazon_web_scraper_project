@@ -7,6 +7,7 @@ A Python-based web scraper that extracts product details, prices, and ratings fr
 - Uses BeautifulSoup for parsing HTML content
 - Stores extracted data for further analysis
 - Can be used for price tracking and market research
+- Sends an email notification when a product reaches a specified price, making it act as a price tracker
 
 ## How to Run
 
